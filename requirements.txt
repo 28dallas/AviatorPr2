@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+databases[sqlite]
+matplotlib
+numpy
+cryptography
+scikit-learn
